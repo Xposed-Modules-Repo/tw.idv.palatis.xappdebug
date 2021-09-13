@@ -1,0 +1,3 @@
+[submodule "XAppDebug"]
+	path = XAppDebug
+	url = https://github.com/Palatis/XAppDebug
